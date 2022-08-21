@@ -9,7 +9,8 @@
 # General
 --------------------------------------------------------------*/
 body {
-  font-family: "Inconsolata", monospace;
+  font-family: "Rasputin", monospace;
+  letter-spacing: 1px;
   color: #0d1e2d;
 }
 
